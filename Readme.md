@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Любовь Куманяева](https://up.htmlacademy.ru/htmlcss-individual/2/user/138931).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Мой проект Седона](https://ms-musmus.github.io/138931-sedona-2/).
 
 ---
 
